@@ -1,5 +1,5 @@
 # portfolio
-This is an ePortfolio of Keying Liang, 2nd year student in Degree Programme in Information and Communication Technology at KTH Royal Institute of Technology.
+This is an ePortfolio of Katrina Liang, 2nd year student in Degree Programme in Information and Communication Technology at KTH Royal Institute of Technology.
 
 This repository includes a collection of projects I have done:
 
